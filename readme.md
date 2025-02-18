@@ -12,7 +12,7 @@ Bot này tự động hóa quá trình tạo tài khoản và sử dụng mã gi
 ## Yêu cầu
 
 - Node.js v18.20.6 LTS [Tải xuống](https://nodejs.org/dist/v18.20.6/node-v18.20.6-x64.msi).
-- Tài khoản giá trị Soso [Soso](https://sosovalue.com/join/2UINHAWE).
+- Tài khoản giá trị Soso [Soso](https://sosovalue.com/join/FPT400OC).
 - 2Captcha Apikey [2Captcha](https://2captcha.com/).
 - Tài khoản Gmail.
 - Cách lấy Email mật khẩu [Tại đây](https://www.youtube.com/watch?v=_rAoQeKpEtM)
@@ -58,7 +58,6 @@ npm i xvfb
    "password": "your_password",
    "captcha2": "your_2captcha_apikey"
    ```
-![định dạng config](image-2.png)
 ## Cách sử dụng
 
 1. Chạy bot:
